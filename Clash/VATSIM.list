@@ -1,11 +1,4 @@
 # VATSIM US
 
 PROCESS-NAME,vPilot.exe
-DOMAIN-SUFFIX,fsd.connect.vatsim.net
-DOMAIN-SUFFIX,vpilot.rosscarlson.dev
-DOMAIN-SUFFIX,status.vatsim.net
-DOMAIN-SUFFIX,auth.vatsim.net
-DOMAIN-SUFFIX,fsd.vatsim.net
-DOMAIN-SUFFIX,voice1.vatsim.net
-DOMAIN-SUFFIX,data.vatsim.net
 
