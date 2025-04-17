@@ -1,4 +1,5 @@
 # VATSIM
 
+PROCESS-NAME,vPilot.exe
 DOMAIN-SUFFIX,fsd.connect.vatsim.net
 IP-CIDR,137.184.8.6/32,no-resolve
