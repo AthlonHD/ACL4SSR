@@ -1,3 +1,4 @@
 # VATSIM
 
-IP-CIDR,167.99.248.14/32,no-resolve
+DOMAIN-SUFFIX,fsd.connect.vatsim.net
+IP-CIDR,137.184.8.6/32,no-resolve
