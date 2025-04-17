@@ -8,4 +8,4 @@ DOMAIN-SUFFIX,auth.vatsim.net
 DOMAIN-SUFFIX,fsd.vatsim.net
 DOMAIN-SUFFIX,voice1.vatsim.net
 IP-CIDR,137.184.8.6/32,no-resolve
-IP-CIDR,137.184.8.6/32,51.81.107.59
+IP-CIDR,51.81.107.59/32,no-resolve
