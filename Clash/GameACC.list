@@ -1,1 +1,9 @@
+# GAME ACC
+
+# Rainbow 6 Siege
+PROCESS-NAME,BEService_x64.exe
+PROCESS-NAME,RainbowSix.exe
+PROCESS-NAME,RainbowSix_BE.exe
+PROCESS-NAME,UbisoftConnect.exe
+
 
