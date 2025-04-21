@@ -2,6 +2,7 @@
 
 # Battleye
 PROCESS-NAME,BEService_x64.exe
+PROCESS-NAME,BEService.exe
 
 # Rainbow 6 Siege
 PROCESS-NAME,RainbowSix.exe
