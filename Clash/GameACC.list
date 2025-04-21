@@ -1,7 +1,9 @@
 # GAME ACC
 
-# Rainbow 6 Siege
+# Battleye
 PROCESS-NAME,BEService_x64.exe
+
+# Rainbow 6 Siege
 PROCESS-NAME,RainbowSix.exe
 PROCESS-NAME,RainbowSix_BE.exe
 PROCESS-NAME,UbisoftConnect.exe
@@ -17,7 +19,10 @@ PROCESS-NAME,UplayService.exe
 PROCESS-NAME,UplayWebCore.exe
 
 
-
+# Escape From Tarkov
+PROCESS-NAME,EscapeFromTarkov.exe
+PROCESS-NAME,EscapeFromTarkov_BE.exe
+PROCESS-NAME,BsgLauncher.exe
 
 
 
