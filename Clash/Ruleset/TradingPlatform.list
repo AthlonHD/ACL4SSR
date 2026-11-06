@@ -1,0 +1,82 @@
+# Trading platforms: websites, REST APIs and WebSocket subdomains.
+# Domain suffixes also match API/stream subdomains; no shared CDN or broad keyword rules.
+# Select the route separately in the Trading Platform policy group.
+
+# > Binance
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.us
+DOMAIN-SUFFIX,binance.org
+DOMAIN-SUFFIX,binance.vision
+DOMAIN-SUFFIX,binanceapi.com
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,bnappzh.co
+DOMAIN-SUFFIX,bnappzh.com
+DOMAIN-SUFFIX,bnbzh.ac
+
+# > OKX
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,okx-dns.com
+DOMAIN-SUFFIX,okx-dns1.com
+DOMAIN-SUFFIX,okx-dns2.com
+
+# > Bybit
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,bytick.com
+
+# > Coinbase
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,coinbasecloud.net
+DOMAIN-SUFFIX,cb-assets.net
+
+# > Kraken
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,krakenfx.com
+
+# > Bitget
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,bitgetapi.com
+
+# > KuCoin
+DOMAIN-SUFFIX,kucoin.com
+DOMAIN-SUFFIX,kucoin.plus
+
+# > Gate
+DOMAIN-SUFFIX,gate.com
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,gate.ac
+
+# > HTX / Huobi
+DOMAIN-SUFFIX,htx.com
+DOMAIN-SUFFIX,huobi.com
+DOMAIN-SUFFIX,huobi.pro
+DOMAIN-SUFFIX,hbdm.com
+DOMAIN-SUFFIX,hbfile.net
+
+# > MEXC
+DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,mexc.co
+DOMAIN-SUFFIX,mexc.fm
+
+# > Other exchanges
+DOMAIN-SUFFIX,bitfinex.com
+DOMAIN-SUFFIX,bitstamp.net
+DOMAIN-SUFFIX,gemini.com
+DOMAIN-SUFFIX,crypto.com
+DOMAIN-SUFFIX,bitmart.com
+DOMAIN-SUFFIX,phemex.com
+DOMAIN-SUFFIX,bitmex.com
+DOMAIN-SUFFIX,deribit.com
+DOMAIN-SUFFIX,coinex.com
+DOMAIN-SUFFIX,poloniex.com
+DOMAIN-SUFFIX,bitflyer.com
+DOMAIN-SUFFIX,bitflyer.jp
+DOMAIN-SUFFIX,coincheck.com
+DOMAIN-SUFFIX,upbit.com
+DOMAIN-SUFFIX,bithumb.com
+
+# > Market charts
+DOMAIN-SUFFIX,tradingview.com
